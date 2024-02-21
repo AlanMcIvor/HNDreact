@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
       <div>
-        <nav className="flex items-center mx-5">
+        <nav className="flex items-center justify-center mx-5">
         <FiActivity size = '32' />
           <ul className="flex gap-10 my-5 mx-5">
             <li className="text-2xl">
